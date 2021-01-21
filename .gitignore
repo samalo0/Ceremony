@@ -1,0 +1,16 @@
+ArtSource
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.idea
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace

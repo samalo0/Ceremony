@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.25\Engine\Binaries\Win64\UE4Editor.exe" "%~dp0Ceremony.uproject" /Game/Ceremony/Maps/RoundArena_P -server -log

@@ -1,0 +1,6 @@
+# Ignore visual studio generated files
+*.sln
+.DS_Store
+.vs
+Saved/
+Intermediate/
